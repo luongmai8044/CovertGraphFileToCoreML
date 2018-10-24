@@ -12,3 +12,5 @@ Run the file convert_pd_to_mlmodel.sh
 #### REFERENCES
 - Refers to tf-coreml\examples\inception_v3.ipynb for the issue "Strip JPEG Decoder"
 - CoreMLTools on Windows: https://github.com/apple/coremltools . Run pip3 install git+https://github.com/apple/coremltools
+
+Make with love :heart: Luong Mai
